@@ -1,0 +1,2 @@
+rm read_temp_mdss
+rm read_temp_mdss.o

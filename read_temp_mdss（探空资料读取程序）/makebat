@@ -1,0 +1,3 @@
+rm -f read_temp_mdss
+make -f maketest
+
