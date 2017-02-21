@@ -1,0 +1,46 @@
+#!/usr/ccs/bin/make -f
+INCLUDE=  \
+-I$(ORACLE_HOME)/precomp/public  \
+-I$(ORACLE_HOME)/rdbms/public \
+-I$(ORACLE_HOME)/rdbms/demo \
+-I$(ORACLE_HOME)/plsql/public \
+-I$(ORACLE_HOME)/network/public
+
+CFLAGS= -g -m64 -Wall -D_DEBUG $(INCLUDE)
+
+LINKS= /home/mdss_user/mdss/v1.4/interface/lib_mrdb_ui.a \
+   -L$(ORACLE_HOME)/lib/ -lclntsh \
+  `cat $(ORACLE_HOME)/lib/ldflags` \
+  `cat $(ORACLE_HOME)/lib/sysliblist` \
+   -lm  -lpthread -lpthread 
+
+UILIB=/home/mdss_user/mdss/v1.4/interface/lib_mrdb_ui.a
+
+TARGET_A1 = read_rgwst_mdss
+TARGET_A2 = write_rawsh_mdss
+
+
+OBJS_A1 = read_rgwst_mdss.o
+OBJS_A2 = write_rawsh_mdss.o
+
+
+
+all: $(TARGET_A1)   $(TARGET_A2)
+$(TARGET_A1):$(OBJS_A1)
+$(TARGET_A2):$(OBJS_A2)
+
+
+$(TARGET_A1):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A2):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+
+
+
+
+
+clear:
+	rm $(OBJS_A1)
+		
+
+

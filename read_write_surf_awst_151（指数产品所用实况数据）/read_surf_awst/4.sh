@@ -1,0 +1,11 @@
+cd  /usr/mdss_user/mdss/read_write_surf_awst_151/write_surf_awst
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150301_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150302_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150303_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150304_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150305_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150306_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150307_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150308_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150309_1300_2355.dat
+write_surf  /usr/mdss_user/data/surf_awst_151/surf_20150310_1300_2355.dat

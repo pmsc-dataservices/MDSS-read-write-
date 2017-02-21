@@ -1,0 +1,688 @@
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 25-JAN-2015 14:26:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 25-JAN-2015 14:26:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 22-FEB-2015 09:46:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 19:04:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 19:04:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 19:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 19:25:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 20:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 20:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 21:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 21:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 22:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 10-APR-2015 22:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 10:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 10:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 13:21:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 14:21:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 15:20:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 15:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 16:20:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 17:21:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 19:21:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 21:25:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-APR-2015 22:21:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 13-APR-2015 10:25:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 13-APR-2015 13:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 13-APR-2015 13:26:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 13-APR-2015 14:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 11
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 27-MAY-2015 10:29:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 30-JUL-2015 23:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 30-JUL-2015 23:19:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 30-JUL-2015 23:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 30-JUL-2015 23:49:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12518, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 12-AUG-2015 21:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12518, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 12-AUG-2015 21:25:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12518, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 12-AUG-2015 22:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12518, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 12-AUG-2015 22:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_surf)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 12-AUG-2015 22:33:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.20.23.37)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=RDB)(CID=(PROGRAM=read_awst)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 12-AUG-2015 22:33:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
