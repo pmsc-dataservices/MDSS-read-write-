@@ -1,0 +1,2 @@
+stationId,name,bjTime,data_source,weather,weather_update
+55228.0,Ê¨ÈªºÓ,20130907030000,Radar,Ð¡Óê,0

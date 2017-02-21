@@ -1,0 +1,19 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.122.151)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=portaldb)(CID=(PROGRAM=write_rsurf_rusrx_mdss)(HOST=localhost.localdomain)(USER=mdss_user))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 02-JUN-2014 18:25:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
