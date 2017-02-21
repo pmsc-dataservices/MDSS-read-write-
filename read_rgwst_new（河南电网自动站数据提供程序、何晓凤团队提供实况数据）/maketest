@@ -1,0 +1,78 @@
+#!/usr/ccs/bin/make -f
+INCLUDE=  \
+-I$(ORACLE_HOME)/precomp/public  \
+-I$(ORACLE_HOME)/rdbms/public \
+-I$(ORACLE_HOME)/rdbms/demo \
+-I$(ORACLE_HOME)/plsql/public \
+-I$(ORACLE_HOME)/network/public
+
+CFLAGS= -g -m64 -Wall -D_DEBUG $(INCLUDE)
+
+LINKS= /home/mdss_user/mdss/v1.4/interface/lib_mrdb_ui.a \
+   -L$(ORACLE_HOME)/lib/ -lclntsh \
+  `cat $(ORACLE_HOME)/lib/ldflags` \
+  `cat $(ORACLE_HOME)/lib/sysliblist` \
+   -lm  -lpthread -lpthread 
+
+UILIB=/home/mdss_user/mdss/v1.4/interface/lib_mrdb_ui.a
+
+TARGET_A1 = read_rgwst_new
+TARGET_A2 = read_rgwst_henan
+TARGET_A3 = read_rgwst_nongye
+TARGET_A4 = write_hubei
+TARGET_A5 = read_rgwst_obs
+TARGET_A6 = read_surf_surx
+TARGET_A7 = read_surf_station
+
+OBJS_A1 = read_rgwst_new.o
+OBJS_A2 = read_rgwst_henan.o
+OBJS_A3 = read_rgwst_nongye.o
+OBJS_A4 = write_hubei.o
+OBJS_A5 = read_rgwst_obs.o
+OBJS_A6 = read_surf_surx.o
+OBJS_A7 = read_surf_station.o
+
+
+
+all: $(TARGET_A1)  $(TARGET_A2)  $(TARGET_A3)    $(TARGET_A4)  $(TARGET_A5)  $(TARGET_A6)  $(TARGET_A7)
+
+  
+$(TARGET_A1):$(OBJS_A1)
+$(TARGET_A2):$(OBJS_A2)
+$(TARGET_A3):$(OBJS_A3)
+$(TARGET_A4):$(OBJS_A4)
+$(TARGET_A5):$(OBJS_A5)
+$(TARGET_A6):$(OBJS_A6)
+$(TARGET_A7):$(OBJS_A7)
+
+$(TARGET_A1):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A2):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A3):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A4):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A5):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A6):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+$(TARGET_A7):$<
+	cc $(CFLAGS) $@.o -o  $@ $(LINKS)
+
+
+
+
+clear:
+	rm $(OBJS_A1)
+	rm $(OBJS_A2)
+	rm $(OBJS_A3)
+	rm $(OBJS_A4)
+	rm $(OBJS_A5)
+	rm $(OBJS_A6)
+	rm $(OBJS_A7)
+
+
+		
+
+

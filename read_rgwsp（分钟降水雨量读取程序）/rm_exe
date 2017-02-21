@@ -1,0 +1,2 @@
+rm read_rgwst_mdss
+rm read_rgwst_mdss.o
